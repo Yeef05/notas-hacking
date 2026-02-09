@@ -22,8 +22,9 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
 112
 ```
 
-picoCTD{p}
+picoCTF{p}
 ## Notas adicionales
+
 - Usamos python para convertir de un hexadecimal a carácter
 
 ## Referencias
