@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/plantilla.md",
+                "file": "5-picoCTF Web 2/2-Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plantilla"
+              "title": "2-Cookies"
             }
           }
         ]
@@ -183,11 +183,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7d6a59872e84f623",
+  "active": "acfb416554f4b7ad",
   "lastOpenFiles": [
-    "5-picoCTF Web 2/-Scavenger Hunt.md",
-    "5-picoCTF Web 2/-GET aHEAD.md",
-    "5-picoCTF Web 2/-Cookies.md",
+    "5-picoCTF Web 2/3-Scavenger Hunt.md",
+    "5-picoCTF Web 2/1-GET aHEAD.md",
+    "5-picoCTF Web 2/2-Cookies.md",
+    "picoCTF/plantilla.md",
     "4-picoCTF Web 1/2-where are the robots.md",
     "4-picoCTF Web 1/1-Insp3ct0r.md",
     "T1-General skills/1-Permissions.md",
@@ -200,7 +201,6 @@
     "4-picoCTF Web 1/4-dont-use-client-side.md",
     "4-picoCTF Web 1/3-logon.md",
     "T1-General skills/6-Blame Game.md",
-    "picoCTF/plantilla.md",
     "T1-General skills/10-ASCII Numbers.md",
     "4-picoCTF Web 1",
     "T1-General skills/9-binhexa.md",
