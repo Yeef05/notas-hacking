@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-picoCTF Web 2/2-Cookies.md",
+                "file": "6-picoCTF Web 3/3-JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-Cookies"
+              "title": "3-JaWT Scratchpad"
             }
           }
         ]
@@ -185,9 +185,13 @@
   },
   "active": "acfb416554f4b7ad",
   "lastOpenFiles": [
+    "6-picoCTF Web 3/2-More SQLi.md",
+    "6-picoCTF Web 3/1-Irish-Name-Repo 1.md",
+    "6-picoCTF Web 3/3-JaWT Scratchpad.md",
+    "5-picoCTF Web 2/2-Cookies.md",
+    "6-picoCTF Web 3",
     "5-picoCTF Web 2/3-Scavenger Hunt.md",
     "5-picoCTF Web 2/1-GET aHEAD.md",
-    "5-picoCTF Web 2/2-Cookies.md",
     "picoCTF/plantilla.md",
     "4-picoCTF Web 1/2-where are the robots.md",
     "4-picoCTF Web 1/1-Insp3ct0r.md",
@@ -210,9 +214,6 @@
     "2-General Skills 2/19-Big Zip.md",
     "2-General Skills 2/18-repetitions.md",
     "3-General Skills 3/21-Super SSH.md",
-    "3-General Skills 3/24-convertme.py.md",
-    "3-General Skills 3/23-Codebook.md",
-    "3-General Skills 3/22- runme.py.md",
     "T1-General skills",
     "3-General Skills 3",
     "2-General Skills 2/Sin nombre",
@@ -220,7 +221,6 @@
     "1-General Skills/Sin nombre",
     "Pasted image 20260208220735.png",
     "a¿",
-    "1-General Skills",
-    "picoCTF"
+    "1-General Skills"
   ]
 }
