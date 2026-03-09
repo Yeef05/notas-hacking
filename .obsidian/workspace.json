@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T2-Web/10-WebDecode.md",
+                "file": "8-picoCTF Forensic 1/5-What Lies Within.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-WebDecode"
+              "title": "5-What Lies Within"
             }
           }
         ],
@@ -200,7 +200,16 @@
   },
   "active": "5242e642d4a46113",
   "lastOpenFiles": [
+    "8-picoCTF Forensic 1/4-extensions.md",
+    "8-picoCTF Forensic 1/3-shark on wire 1.md",
+    "8-picoCTF Forensic 1/2-So Meta.md",
+    "8-picoCTF Forensic 1/1-Glory of the Garden.md",
+    "8-picoCTF Forensic 1/5-What Lies Within.md",
+    "picoCTF/plantilla.md",
     "T2-Web/9-Unminify.md",
+    "8-picoCTF Forensic 1",
+    "T2-Web/10-WebDecode.md",
+    "6-picoCTF Web 3/3-JaWT Scratchpad.md",
     "T2-Web/8-SQLiLite.md",
     "6-picoCTF Web 3/1-Irish-Name-Repo 1.md",
     "5-picoCTF Web 2/3-Scavenger Hunt.md",
@@ -213,29 +222,20 @@
     "4-picoCTF Web 1/2-where are the robots.md",
     "T2-Web/7-Secrets.md",
     "T2-Web/6-Roboto Sans.md",
-    "T2-Web/10-WebDecode.md",
     "T2-Web/5-Power Cookie.md",
     "T2-Web/4-Local Authority.md",
     "T2-Web/3-IntroToBurp.md",
     "T2-Web/2-Inspect HTML.md",
     "T2-Web/1-Includes.md",
-    "picoCTF/plantilla.md",
-    "7-picoCTF Web 4/4-Most Cookies.md",
     "T2-Web",
     "T1-General skills/Sin nombre",
-    "7-picoCTF Web 4/3-Trickster.md",
-    "7-picoCTF Web 4/2-SOAP.md",
-    "7-picoCTF Web 4/1-MatchTheRegex.md",
-    "6-picoCTF Web 3/2-More SQLi.md",
     "7-picoCTF Web 4",
-    "6-picoCTF Web 3/3-JaWT Scratchpad.md",
     "6-picoCTF Web 3",
     "5-picoCTF Web 2",
     "4-picoCTF Web 1",
     "T1-General skills",
     "3-General Skills 3",
     "2-General Skills 2/Sin nombre",
-    "2-General Skills 2",
     "Pasted image 20260208220735.png"
   ]
 }
