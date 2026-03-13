@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-picoCTF Forensic 2/5-shark on wire 2.md",
+                "file": "10-picoCTF Forensic 3/5-MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-shark on wire 2"
+              "title": "5-MacroHard WeakEdge"
             }
           }
         ]
@@ -185,11 +185,17 @@
   },
   "active": "5242e642d4a46113",
   "lastOpenFiles": [
+    "10-picoCTF Forensic 3/4-tunn3l_v1s10n.md",
+    "10-picoCTF Forensic 3/5-MacroHard WeakEdge.md",
+    "10-picoCTF Forensic 3/3-Matryoshka doll.md",
+    "10-picoCTF Forensic 3/2-Webnet1.md",
+    "10-picoCTF Forensic 3/1-WebNet0.md",
+    "9-picoCTF Forensic 2/5-shark on wire 2.md",
+    "10-picoCTF Forensic 3",
     "9-picoCTF Forensic 2/4-like1000.md",
     "9-picoCTF Forensic 2/3-c0rrupt.md",
     "9-picoCTF Forensic 2/2-WhitePages.md",
     "9-picoCTF Forensic 2/1-m00nwalk.md",
-    "9-picoCTF Forensic 2/5-shark on wire 2.md",
     "picoCTF/plantilla.md",
     "Examen 1-General Skills/7-.md",
     "9-picoCTF Forensic 2",
@@ -209,18 +215,12 @@
     "8-picoCTF Forensic 1/3-shark on wire 1.md",
     "8-picoCTF Forensic 1/2-So Meta.md",
     "8-picoCTF Forensic 1/1-Glory of the Garden.md",
-    "T2-Web/9-Unminify.md",
     "8-picoCTF Forensic 1",
-    "T2-Web/10-WebDecode.md",
-    "T2-Web/8-SQLiLite.md",
-    "6-picoCTF Web 3/1-Irish-Name-Repo 1.md",
-    "5-picoCTF Web 2/3-Scavenger Hunt.md",
     "T2-Web",
     "T1-General skills/Sin nombre",
     "7-picoCTF Web 4",
     "6-picoCTF Web 3",
     "5-picoCTF Web 2",
-    "4-picoCTF Web 1",
     "Pasted image 20260208220735.png"
   ]
 }
