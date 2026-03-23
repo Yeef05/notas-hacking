@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concurso picoCTF 1/Binary Digits.md",
+                "file": "11-picoCTF Forensic 4/6-Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Digits"
+              "title": "6-Operation Oni"
             }
           }
         ]
@@ -185,11 +185,18 @@
   },
   "active": "5242e642d4a46113",
   "lastOpenFiles": [
+    "11-picoCTF Forensic 4/5-Operation Orchid.md",
+    "11-picoCTF Forensic 4/6-Operation Oni.md",
+    "11-picoCTF Forensic 4/4-Sleuthkit Apprentice.md",
+    "11-picoCTF Forensic 4/3-Sleuthkit Intro.md",
+    "11-picoCTF Forensic 4/2-Disk, disk, sleuth!.md",
+    "11-picoCTF Forensic 4/1-Milkslap.md",
+    "concurso picoCTF 1/Binary Digits.md",
+    "11-picoCTF Forensic 4",
     "concurso picoCTF 1.zip",
     "concurso picoCTF 1/Timeline 0.md",
     "concurso picoCTF 1/SUDO MAKE ME A SANDWICH.md",
     "concurso picoCTF 1/ping-cmd.md",
-    "concurso picoCTF 1/Binary Digits.md",
     "concurso picoCTF 1/Password Profiler.md",
     "concurso picoCTF 1/Piece by piece.md",
     "concurso picoCTF 1/MY GIT.md",
@@ -207,11 +214,6 @@
     "Examen 1-Web/3-head-dump.md",
     "Examen 1-Web/2-Cookie Monster Secret Recipe.md",
     "2-General Skills 2/20-First Find.md",
-    "2-General Skills 2/19-Big Zip.md",
-    "2-General Skills 2/17-Magikarp Ground Mission.md",
-    "2-General Skills 2/16-Tab, Tab, Attack.md",
-    "3-General Skills 3/21-Super SSH.md",
-    "3-General Skills 3/23-Codebook.md",
     "10-picoCTF Forensic 3",
     "9-picoCTF Forensic 2",
     "Examen 1-Web",
@@ -219,8 +221,6 @@
     "8-picoCTF Forensic 1",
     "T2-Web",
     "T1-General skills/Sin nombre",
-    "7-picoCTF Web 4",
-    "6-picoCTF Web 3",
     "Pasted image 20260208220735.png"
   ]
 }
