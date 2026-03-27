@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-picoCTF Forensic 4/6-Operation Oni.md",
+                "file": "T3-Forensic/9-Ph4nt0m 1ntrud3r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6-Operation Oni"
+              "title": "9-Ph4nt0m 1ntrud3r"
             }
           }
         ]
@@ -185,8 +185,18 @@
   },
   "active": "5242e642d4a46113",
   "lastOpenFiles": [
-    "11-picoCTF Forensic 4/5-Operation Orchid.md",
+    "T3-Forensic/8-RED.md",
+    "T3-Forensic/9-Ph4nt0m 1ntrud3r.md",
+    "T3-Forensic/7-Secret of the Polyglot.md",
+    "T3-Forensic/6-CanYouSee.md",
+    "T3-Forensic/5-Scan Surprise.md",
+    "T3-Forensic/4-hideme.md",
+    "T3-Forensic/3-Redaction gone wrong.md",
+    "T3-Forensic/2-St3g0.md",
+    "T3-Forensic/1-information.md",
     "11-picoCTF Forensic 4/6-Operation Oni.md",
+    "T3-Forensic",
+    "11-picoCTF Forensic 4/5-Operation Orchid.md",
     "11-picoCTF Forensic 4/4-Sleuthkit Apprentice.md",
     "11-picoCTF Forensic 4/3-Sleuthkit Intro.md",
     "11-picoCTF Forensic 4/2-Disk, disk, sleuth!.md",
@@ -205,22 +215,12 @@
     "concurso picoCTF 1/Printer Shares.md",
     "Examen 1-Web/8-SSTI2.md",
     "concurso picoCTF 1",
-    "Examen 1-Web/4-SSTI1.md",
-    "Examen 1-Web/7-SQL Direct.md",
-    "Examen 1-Web/6-Java Code Analysis!!.md",
-    "6-picoCTF Web 3/3-JaWT Scratchpad.md",
-    "7-picoCTF Web 4/4-Most Cookies.md",
-    "Examen 1-Web/5-findme.md",
-    "Examen 1-Web/3-head-dump.md",
-    "Examen 1-Web/2-Cookie Monster Secret Recipe.md",
-    "2-General Skills 2/20-First Find.md",
     "10-picoCTF Forensic 3",
     "9-picoCTF Forensic 2",
     "Examen 1-Web",
     "Examen 1-General Skills",
     "8-picoCTF Forensic 1",
     "T2-Web",
-    "T1-General skills/Sin nombre",
     "Pasted image 20260208220735.png"
   ]
 }
