@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13-picoCTF Crypto 2/rsa-pop-quiz.md",
+                "file": "14-picoCTF Crypto 3/4-b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rsa-pop-quiz"
+              "title": "4-b00tl3gRSA3"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "5242e642d4a46113",
   "lastOpenFiles": [
-    "12-picoCTF Crypto 1/8-interencdec.md",
+    "14-picoCTF Crypto 3/3-b00tl3gRSA2.md",
+    "14-picoCTF Crypto 3/2-Mind your Ps and Qs.md",
+    "14-picoCTF Crypto 3/1-Mini RSA.md",
+    "14-picoCTF Crypto 3/4-b00tl3gRSA3.md",
     "13-picoCTF Crypto 2/rsa-pop-quiz.md",
+    "14-picoCTF Crypto 3",
+    "12-picoCTF Crypto 1/8-interencdec.md",
     "13-picoCTF Crypto 2",
     "12-picoCTF Crypto 1/7-waves over lambda.md",
     "12-picoCTF Crypto 1/6-Tapping.md",
@@ -210,17 +215,12 @@
     "11-picoCTF Forensic 4/5-Operation Orchid.md",
     "11-picoCTF Forensic 4/4-Sleuthkit Apprentice.md",
     "11-picoCTF Forensic 4/3-Sleuthkit Intro.md",
-    "11-picoCTF Forensic 4/2-Disk, disk, sleuth!.md",
-    "11-picoCTF Forensic 4/1-Milkslap.md",
-    "concurso picoCTF 1/Binary Digits.md",
     "11-picoCTF Forensic 4",
     "concurso picoCTF 1.zip",
-    "concurso picoCTF 1/Timeline 0.md",
     "concurso picoCTF 1",
     "10-picoCTF Forensic 3",
     "9-picoCTF Forensic 2",
     "Examen 1-Web",
-    "Examen 1-General Skills",
     "Pasted image 20260208220735.png"
   ]
 }
