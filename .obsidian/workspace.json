@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-picoCTF Crypto 3/4-b00tl3gRSA3.md",
+                "file": "15-picoCTF Crypto 4/5-Flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-b00tl3gRSA3"
+              "title": "5-Flags"
             }
           }
         ]
@@ -185,10 +185,16 @@
   },
   "active": "5242e642d4a46113",
   "lastOpenFiles": [
+    "15-picoCTF Crypto 4/4-ReadMyCert.md",
+    "15-picoCTF Crypto 4/3-HideToSee.md",
+    "15-picoCTF Crypto 4/2-basic-mod1.md",
+    "15-picoCTF Crypto 4/1-Pixelated.md",
+    "15-picoCTF Crypto 4/5-Flags.md",
+    "14-picoCTF Crypto 3/4-b00tl3gRSA3.md",
+    "15-picoCTF Crypto 4",
     "14-picoCTF Crypto 3/3-b00tl3gRSA2.md",
     "14-picoCTF Crypto 3/2-Mind your Ps and Qs.md",
     "14-picoCTF Crypto 3/1-Mini RSA.md",
-    "14-picoCTF Crypto 3/4-b00tl3gRSA3.md",
     "13-picoCTF Crypto 2/rsa-pop-quiz.md",
     "14-picoCTF Crypto 3",
     "12-picoCTF Crypto 1/8-interencdec.md",
@@ -209,18 +215,12 @@
     "T3-Forensic/4-hideme.md",
     "T3-Forensic/3-Redaction gone wrong.md",
     "T3-Forensic/2-St3g0.md",
-    "T3-Forensic/1-information.md",
-    "11-picoCTF Forensic 4/6-Operation Oni.md",
     "T3-Forensic",
-    "11-picoCTF Forensic 4/5-Operation Orchid.md",
-    "11-picoCTF Forensic 4/4-Sleuthkit Apprentice.md",
-    "11-picoCTF Forensic 4/3-Sleuthkit Intro.md",
     "11-picoCTF Forensic 4",
     "concurso picoCTF 1.zip",
     "concurso picoCTF 1",
     "10-picoCTF Forensic 3",
     "9-picoCTF Forensic 2",
-    "Examen 1-Web",
     "Pasted image 20260208220735.png"
   ]
 }
