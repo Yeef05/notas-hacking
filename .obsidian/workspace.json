@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15-picoCTF Crypto 4/5-Flags.md",
+                "file": "T4-Crypto/10-Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-Flags"
+              "title": "10-Vigenere"
+            }
+          },
+          {
+            "id": "efa55bd7c79992ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -185,11 +195,25 @@
   },
   "active": "5242e642d4a46113",
   "lastOpenFiles": [
+    "README.md",
+    "T4-Crypto/9-substitution2.md",
+    "T4-Crypto/10-Vigenere.md",
+    "T4-Crypto/8-substitution1.md",
+    "T4-Crypto/7-substitution0.md",
+    "T4-Crypto/6-rail-fence.md",
+    "T4-Crypto/5-morse-code.md",
+    "T4-Crypto/4-hashcrack.md",
+    "T4-Crypto/3-EVEN RSA CAN BE BROKEN.md",
+    "T4-Crypto/2-credstuff.md",
+    "16-picoCTF Reversing 1",
+    "T4-Crypto/1-Crack the Power.md",
+    "picoCTF/plantilla.md",
+    "15-picoCTF Crypto 4/5-Flags.md",
+    "T4-Crypto",
     "15-picoCTF Crypto 4/4-ReadMyCert.md",
     "15-picoCTF Crypto 4/3-HideToSee.md",
     "15-picoCTF Crypto 4/2-basic-mod1.md",
     "15-picoCTF Crypto 4/1-Pixelated.md",
-    "15-picoCTF Crypto 4/5-Flags.md",
     "14-picoCTF Crypto 3/4-b00tl3gRSA3.md",
     "15-picoCTF Crypto 4",
     "14-picoCTF Crypto 3/3-b00tl3gRSA2.md",
@@ -201,26 +225,11 @@
     "13-picoCTF Crypto 2",
     "12-picoCTF Crypto 1/7-waves over lambda.md",
     "12-picoCTF Crypto 1/6-Tapping.md",
-    "12-picoCTF Crypto 1/5-la cifra de.md",
-    "12-picoCTF Crypto 1/4-Easy 1.md",
-    "12-picoCTF Crypto 1/3-Caesar.md",
-    "12-picoCTF Crypto 1/2-13.md",
-    "12-picoCTF Crypto 1/1-The numbers.md",
-    "T3-Forensic/9-Ph4nt0m 1ntrud3r.md",
     "12-picoCTF Crypto 1",
-    "T3-Forensic/8-RED.md",
-    "T3-Forensic/7-Secret of the Polyglot.md",
-    "T3-Forensic/6-CanYouSee.md",
-    "T3-Forensic/5-Scan Surprise.md",
-    "T3-Forensic/4-hideme.md",
-    "T3-Forensic/3-Redaction gone wrong.md",
-    "T3-Forensic/2-St3g0.md",
     "T3-Forensic",
     "11-picoCTF Forensic 4",
     "concurso picoCTF 1.zip",
     "concurso picoCTF 1",
-    "10-picoCTF Forensic 3",
-    "9-picoCTF Forensic 2",
     "Pasted image 20260208220735.png"
   ]
 }
