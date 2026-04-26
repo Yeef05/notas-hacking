@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T4-Crypto/10-Vigenere.md",
+                "file": "16-picoCTF Reversing 1/5-vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Vigenere"
+              "title": "5-vault-door-5"
             }
           },
           {
@@ -195,9 +195,14 @@
   },
   "active": "5242e642d4a46113",
   "lastOpenFiles": [
+    "16-picoCTF Reversing 1/4-vault-door-4.md",
+    "16-picoCTF Reversing 1/5-vault-door-5.md",
+    "16-picoCTF Reversing 1/3-vault-door-3.md",
+    "16-picoCTF Reversing 1/2-vault-door-1.md",
+    "16-picoCTF Reversing 1/1-vault-door-training.md",
+    "T4-Crypto/10-Vigenere.md",
     "README.md",
     "T4-Crypto/9-substitution2.md",
-    "T4-Crypto/10-Vigenere.md",
     "T4-Crypto/8-substitution1.md",
     "T4-Crypto/7-substitution0.md",
     "T4-Crypto/6-rail-fence.md",
@@ -219,12 +224,8 @@
     "14-picoCTF Crypto 3/3-b00tl3gRSA2.md",
     "14-picoCTF Crypto 3/2-Mind your Ps and Qs.md",
     "14-picoCTF Crypto 3/1-Mini RSA.md",
-    "13-picoCTF Crypto 2/rsa-pop-quiz.md",
     "14-picoCTF Crypto 3",
-    "12-picoCTF Crypto 1/8-interencdec.md",
     "13-picoCTF Crypto 2",
-    "12-picoCTF Crypto 1/7-waves over lambda.md",
-    "12-picoCTF Crypto 1/6-Tapping.md",
     "12-picoCTF Crypto 1",
     "T3-Forensic",
     "11-picoCTF Forensic 4",
