@@ -11,10 +11,14 @@
             "id": "c7ad11e57d6e5910",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "18-picoCTF Reversing 3/3-asm3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "3-asm3"
             }
           }
         ]
@@ -181,6 +185,10 @@
   },
   "active": "c7ad11e57d6e5910",
   "lastOpenFiles": [
+    "18-picoCTF Reversing 3/2-asm2.md",
+    "18-picoCTF Reversing 3/1-asm1.md",
+    "18-picoCTF Reversing 3/3-asm3.md",
+    "18-picoCTF Reversing 3",
     "17-picoCTF Reversing 2/6-Picker IV.md",
     "17-picoCTF Reversing 2/5-Picker III.md",
     "17-picoCTF Reversing 2/4-Picker II.md",
@@ -206,17 +214,13 @@
     "T4-Crypto/2-credstuff.md",
     "16-picoCTF Reversing 1",
     "T4-Crypto/1-Crack the Power.md",
-    "picoCTF/plantilla.md",
-    "15-picoCTF Crypto 4/5-Flags.md",
     "T4-Crypto",
-    "15-picoCTF Crypto 4/4-ReadMyCert.md",
     "15-picoCTF Crypto 4",
     "14-picoCTF Crypto 3",
     "13-picoCTF Crypto 2",
     "12-picoCTF Crypto 1",
     "T3-Forensic",
     "11-picoCTF Forensic 4",
-    "concurso picoCTF 1.zip",
     "Pasted image 20260208220735.png"
   ]
 }
